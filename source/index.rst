@@ -1,4 +1,5 @@
 .. okagit Documentation master file.
+.. title:: トップページ - 岡山gitユーザ会
 
 .. toctree::
    :maxdepth: 2
