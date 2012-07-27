@@ -58,6 +58,8 @@ Twitterハッシュタグ
 okagitカレンダー
 ================
 
+okagit関連のイベントカレンダーです。
+
 .. raw:: html
 
    <iframe src="https://www.google.com/calendar/embed?src=okagit%40gmail.com&amp;showTitle=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;height=330&amp;wkst=1&amp;bgcolor=%23666666&amp;ctz=Asia%2FTokyo" style=" border-width:0 " width="440" height="330" frameborder="0" scrolling="no"></iframe>
