@@ -51,7 +51,7 @@ Twitterハッシュタグ
      - 場所
    * - 2012/6/16
      - 岡山git勉強会 201206
-     - `奉還町リブラ <http://www.houkancho.com/info/ribura/sub3liburaProf.htm>`_
+     - `奉還町りぶら <http://www.houkancho.com/info/ribura/sub3liburaProf.htm>`_
 
 |
 
