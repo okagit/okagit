@@ -1,0 +1,92 @@
+.. title:: 岡山git勉強会 201206 - 岡山gitユーザ会
+
+|
+
+====================
+岡山git勉強会 201206
+====================
+2012年6月16日に、初回の勉強会を開催しました。
+
+想定以上の方に参加していただき、規模の大きいものになりました。
+
+|
+
+開催概要
+========
+
+* 開催日時： 2012/06/16 13:00〜17:00
+* 場所： `奉還町りぶら <http://www.houkancho.com/info/ribura/sub3liburaProf.htm>`_ りぶらホールA （ `地図 <https://www.google.co.jp/maps?q=%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%B2%A1%E5%B1%B1%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A5%89%E9%82%84%E7%94%BA%EF%BC%92%E2%88%92%EF%BC%91%EF%BC%94%E2%88%92%EF%BC%97&hl=ja&ie=UTF8&ll=34.669173,133.916119&spn=0.001498,0.002124&sll=34.669177,133.916124&sspn=0.005991,0.008497&oq=%E5%B2%A1%E5%B1%B1%E5%B8%82%E5%A5%89%E9%82%84%E7%94%BA2-14-7)&brcurrent=3,0x3554064e122989c9:0xf8505f51e1fad3a2,0&hnear=%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%B2%A1%E5%B1%B1%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A5%89%E9%82%84%E7%94%BA%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%94%E2%88%92%EF%BC%97&t=m&z=19>`_ ）
+* 申込： `ATND <http://atnd.org/events/29083>`_
+
+|
+
+セッション
+==========
+
+自社にgitを導入させたお話（仮）
+-------------------------
+* 発表者　： `@ryosms <https://twitter.com/ryosms>`_ 
+* 発表資料： `自社にgitを導入させたお話 - prezi <http://prezi.com/rx8zxzvw1wfm/git/>`_ 
+* ブログ　： `岡山git勉強会を開催しました - sms日記 <http://blog.livedoor.jp/ryosms/archives/6324330.html>`_
+
+.. raw:: html
+
+   <div class="prezi-player"><style type="text/css" media="screen">.prezi-player { width: 427px; } .prezi-player-links { text-align: center; }</style><object id="prezi_rx8zxzvw1wfm" name="prezi_rx8zxzvw1wfm" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="427" height="356"><param name="movie" value="http://prezi.com/bin/preziloader.swf"/><param name="allowfullscreen" value="true"/><param name="allowFullScreenInteractive" value="true"/><param name="allowscriptaccess" value="always"/><param name="bgcolor" value="#ffffff"/><param name="flashvars" value="prezi_id=rx8zxzvw1wfm&amp;lock_to_path=0&amp;color=ffffff&amp;autoplay=no&amp;autohide_ctrls=0"/><embed id="preziEmbed_rx8zxzvw1wfm" name="preziEmbed_rx8zxzvw1wfm" src="http://prezi.com/bin/preziloader.swf" type="application/x-shockwave-flash" allowfullscreen="true" allowFullScreenInteractive="true" allowscriptaccess="always" width="427" height="356" bgcolor="#ffffff" flashvars="prezi_id=rx8zxzvw1wfm&amp;lock_to_path=0&amp;color=ffffff&amp;autoplay=no&amp;autohide_ctrls=0"></embed></object><div class="prezi-player-links"><p><a title="自社にgitを導入させたお話" href="http://prezi.com/rx8zxzvw1wfm/git/">自社にgitを導入させたお話</a> on <a href="http://prezi.com">Prezi</a></p></div></div>
+   
+|
+
+初心者向けGithub入門
+--------------------
+* 発表者　： `@zephiransas <https://twitter.com/zephiransas>`_ 
+* 発表資料： `はじめよう！Github - slideshare <http://www.slideshare.net/zephiransas/github-13347628>`_ 
+* ブログ　： `岡山git勉強会でGithubのこと喋ってきた - zephiransasのチラシの裏 <http://d.hatena.ne.jp/zephiransas/20120617/1339940452>`_ 
+
+.. raw:: html
+
+   <iframe src="http://www.slideshare.net/slideshow/embed_code/13347628" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/zephiransas/github-13347628" title="はじめよう！Github" target="_blank">はじめよう！Github</a> </strong> from <strong><a href="http://www.slideshare.net/zephiransas" target="_blank">takafumi Yoshida</a></strong> </div>
+
+|
+
+Successful gitを試そうとしたが
+------------------------------
+* 発表者　： `@patorash <https://twitter.com/patorash>`_ 
+* 発表資料： `Successful gitを試してみたが... - slideshare <http://www.slideshare.net/chariderpato/successful-git>`_ 
+* ブログ　： `岡山GIT勉強会に参加・発表してきた - 自転車で通勤しましょ♪ブログ <http://319ring.net/blog/archives/2000>`_ 
+
+.. raw:: html
+
+   <iframe src="http://www.slideshare.net/slideshow/embed_code/13346498" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/chariderpato/successful-git" title="Successful git" target="_blank">Successful git</a> </strong> from <strong><a href="http://www.slideshare.net/chariderpato" target="_blank">Toyoaki Oko</a></strong> </div>
+
+|
+
+Git Immersionハンズオン
+-----------------------
+* ハンズオン資料： `Git Immersion <http://gitimmersion.com/>`_ 
+
+|
+|
+
+あわせて読みたい
+================
+
+Togetter
+--------
+`@tamacjp <https://twitter.com/tamacjp>`_ さんによるまとめです
+
+* `岡山git勉強会 201206まとめ <http://togetter.com/li/321546>`_ 
+
+Flickr
+------
+大都会の勉強会カメラマン、ぜっちゃんことカメランサスさんのFlickrです
+
+* `岡山git勉強会 <http://www.flickr.com/photos/zephiransas/sets/72157630143451678/>`_ 
+
+座席表
+------
+sekicocoというサービスを使用した、当日の座席表です
+
+* `岡山git勉強会のザセキ <http://sekico.co/zaseki/26>`_ 
+
+|
+|
+|
