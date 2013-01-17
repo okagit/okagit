@@ -34,7 +34,28 @@ Twitterハッシュタグ
 開催予定のイベント
 ==================
 
- 現在、開催予定のイベントはありません。
+ .. 現在、開催予定のイベントはありません。
+
+ **岡山Git勉強会 201302**
+
+ .. list-table::
+     :widths: 10 50
+     :header-rows: 0
+
+     * - 開催日
+       - 未定（2013/02/16を予定）
+     * - 開催場所
+       - 未定（岡山市／倉敷市）
+     * - 定員
+       - 未定
+     * - 会費
+       - 未定（100円〜200円程度）
+     * - 発表内容
+       - 未定（発表したい人は `連絡ください <https://twitter.com/intent/tweet?hashtags=okagit&in_reply_to=291732451879964672&original_referer=http://local.aguuu.com/events/11120>`_ ）
+     * - 懇親会
+       - 未定
+
+ 申込は `Local Search <http://local.aguuu.com/events/11120>`_ よりお願いします。
 
 |
 
