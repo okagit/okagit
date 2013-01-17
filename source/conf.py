@@ -54,7 +54,7 @@ copyright = u'2012 - 2013, Okayama Git User Group'
 # built documents.
 #
 # The short X.Y version.
-version = u'1.0'
+version = u''
 
 # The full version, including alpha/beta/rc tags.
 release = u'1.0.0'
