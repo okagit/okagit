@@ -43,19 +43,19 @@ Twitterハッシュタグ
      :header-rows: 0
 
      * - 開催日
-       - 未定（2013/02/16を予定）
+       - 2013-02-23 14:00 ~ 17:00
      * - 開催場所
-       - 未定（岡山市／倉敷市）
+       - `倉敷労働会館 大会議室（207） <https://maps.google.co.jp/maps?q=%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%80%89%E6%95%B7%E5%B8%82%E7%A8%B2%E8%8D%B7%E7%94%BA%EF%BC%95%E2%88%92%EF%BC%93%EF%BC%98&hl=ja&ie=UTF8&ll=34.594498,133.764735&spn=0.001499,0.0021&sll=34.594639,133.764971&sspn=0.001499,0.0021&brcurrent=3,0x3551564ee4d4d091:0x933c361d7363d337,0&brv=25.1-fa8ed276_c3147e72_ccf32e81_040c821b_76b35545&t=h&hnear=%E5%B2%A1%E5%B1%B1%E7%9C%8C%E5%80%89%E6%95%B7%E5%B8%82%E7%A8%B2%E8%8D%B7%E7%94%BA%EF%BC%95%E2%88%92%EF%BC%93%EF%BC%98&z=19>`_
      * - 定員
-       - 未定
+       - 30名
      * - 会費
-       - 未定（100円〜200円程度）
+       - 300円
      * - 発表内容
-       - 未定（発表したい人は `連絡ください <https://twitter.com/intent/tweet?hashtags=okagit&in_reply_to=291732451879964672&original_referer=http://local.aguuu.com/events/11120>`_ ）
+       - `Local Search <http://local.aguuu.com/events/11120>`_ で確認してください
      * - 懇親会
-       - 未定
+       - 予定あり
 
- 申込は `Local Search <http://local.aguuu.com/events/11120>`_ よりお願いします。
+ 詳しい内容、および申込は `Local Search <http://local.aguuu.com/events/11120>`_ よりお願いします。
 
 |
 
