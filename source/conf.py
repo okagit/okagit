@@ -106,7 +106,11 @@ html_theme = u'bootstrap'
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
-#html_theme_options = {}
+html_theme_options = {
+	'navbar_class': "navbar navbar-inverse",
+	'navbar_fixed_top': "true",
+	'source_link_position': "footer",
+}
 
 # Add any paths that contain custom themes here, relative to this directory.
 html_theme_path = [u'_themes']
