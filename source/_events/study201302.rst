@@ -28,7 +28,7 @@ WindowsでGitを使う際のベストプラクティス
 ----------------------------------------
 * 発表者　： `@ryosms <https://twitter.com/ryosms>`_ 
 * 発表資料： `WindowsでGitを使う際のベストプラクティス - slideshare <http://www.slideshare.net/ryosms/windowsgit>`_ 
-.. * ブログ　： `岡山git勉強会を開催しました - sms日記 <http://blog.livedoor.jp/ryosms/archives/6324330.html>`_
+* ブログ　： `岡山Git勉強会 201302 - sms日記 <http://blog.livedoor.jp/ryosms/archives/6959810.html>`_
 
 .. raw:: html
 
@@ -75,6 +75,14 @@ Togetter
 sekicocoというサービスを使用した、当日の座席表です
 
 * `岡山Git勉強会(パソコン交流会) #okagit <http://sekico.co/zaseki/95>`_ 
+
+|
+
+その他ブログ等
+--------------
+* `岡山 Git 勉強会 201302 に遊びにいってきた。 - 日常と勉強会と広島と。 <http://eielh-life.tumblr.com/post/43890763010/git-201302>`_ 
+
+「岡山Git勉強会 201302のブログを書いたよ！」って人は連絡もらえると嬉しいです。
 
 |
 |
