@@ -69,5 +69,25 @@ okagitカレンダー
 
 
 |
+
+HubInfo
+=======
+
+ 本ページのソースリポジトリの状況です。
+
+.. raw:: html
+
+   <link rel="stylesheet" href="static/hubinfo.min.css" />
+   <script type="text/javascript" src="static/hubinfo.min.js"></script>
+   <script type="text/javascript">
+    $(function() {
+      $("#hubInfo").hubInfo({
+        user: "okagit",
+        repo: "okagit"
+      });
+    })
+   </script>
+   <div id="hubInfo" style="max-width: 800px;"></div>
+
 |
 |
