@@ -24,7 +24,7 @@
 ==========
 
 自社にgitを導入させたお話（仮）
--------------------------
+-------------------------------
 * 発表者　： `@ryosms <https://twitter.com/ryosms>`_ 
 * 発表資料： `自社にgitを導入させたお話 - prezi <http://prezi.com/rx8zxzvw1wfm/git/>`_ 
 * ブログ　： `岡山git勉強会を開催しました - sms日記 <http://blog.livedoor.jp/ryosms/archives/6324330.html>`_
