@@ -2,7 +2,18 @@
 .. title:: トップページ - 岡山Gitユーザ会
 
 .. toctree::
-   :maxdepth: 2
+   :titlesonly:
+   :hidden:
+
+   self
+   _events/study201206
+   _events/study201302
+
+|
+
+===============
+岡山Gitユーザ会
+===============
 
 |
 
