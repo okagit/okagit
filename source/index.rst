@@ -6,8 +6,8 @@
    :hidden:
 
    self
-   _events/study201206
-   _events/study201302
+   events/study201206
+   events/study201302
 
 |
 
@@ -61,10 +61,10 @@ Twitterハッシュタグ
       - タイトル
       - 場所
     * - 2012/06/16
-      - :doc:`_events/study201206`
+      - :doc:`events/study201206`
       - `奉還町りぶら <http://www.houkancho.com/info/ribura/sub3liburaProf.htm>`_
     * - 2013/02/23
-      - :doc:`_events/study201302`
+      - :doc:`events/study201302`
       - `倉敷労働会館 <http://www.sanbg.com/roukan/>`_
 
 |
