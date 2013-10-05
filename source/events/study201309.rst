@@ -1,0 +1,42 @@
+.. title:: 岡山Git勉強会 201309 - 岡山Gitユーザ会
+
+|
+
+====================
+岡山Git勉強会 201309
+====================
+
+2013年9月14日に、勉強会を開催しました。
+特にテーマを決めずに集まってもくもくする会になりました。
+
+|
+
+開催概要
+========
+
+* 開催日時： 2013/09/14 13:00〜17:00
+* 場所： `倉敷市立美術館 <http://www.city.kurashiki.okayama.jp/dd.aspx?menuid=11459>`_ 第1会議室 （ `地図 <https://maps.google.com/maps?ll=34.5951,133.769&z=18&t=m&hl=ja&mapclient=apiv3>`_ ）
+* 申込： `Local Search <http://local.aguuu.com/events/19879>`_
+
+|
+|
+
+あわせて読みたい
+================
+
+Togetter
+--------
+`@razon <https://twitter.com/razon>`_ さんによるまとめです
+
+* `岡山Git勉強会 201309 まとめ #okagit #パソコン交流会 #パソコン直流会 <http://togetter.com/li/563676>`_
+
+
+座席表
+------
+sekicocoというサービスを使用した、当日の座席表です
+
+* `岡山Git勉強会 201309 #okagit #パソコン交流会 #パソコン直流会 #okagit <http://sekico.co/zaseki/193>`_
+
+|
+|
+|

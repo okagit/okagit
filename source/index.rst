@@ -8,6 +8,7 @@
    self
    events/study201206
    events/study201302
+   events/study201309
 
 |
 
@@ -66,6 +67,9 @@ Twitterハッシュタグ
     * - 2013/02/23
       - :doc:`events/study201302`
       - `倉敷労働会館 <http://www.sanbg.com/roukan/>`_
+    * - 2013/09/14
+      - :doc:`events/study201309`
+      - `倉敷市立美術館 <http://www.city.kurashiki.okayama.jp/dd.aspx?menuid=11459>`_
 
 |
 
