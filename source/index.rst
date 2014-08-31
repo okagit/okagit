@@ -9,6 +9,7 @@
    events/study201206
    events/study201302
    events/study201309
+   events/study201408
 
 |
 
@@ -46,26 +47,7 @@ Twitterハッシュタグ
 開催予定のイベント
 ==================
 
-.. 現在、開催予定のイベントはありません。
-
-**岡山Git勉強会 201408**
-
-  .. list-table::
-    :widths: 10, 50
-    :header-rows: 0
-
-    * - 開催日
-      - 2014-08-30(土) 14:00 ~ 17:00
-    * - 開催場所
-      - `岡山県倉敷市老松町4-8-20 2F アクシス会議室 <https://www.google.com/maps/place/34°35'37.0"N+133°45'28.8"E>`_
-    * - 定員
-      - 10名(最大20名)
-    * - 会費
-      - 100円
-    * - 懇親会
-      - `倉敷天満屋屋上ビアガーデン <http://www.tenmaya.co.jp/kurashiki/pdf/beer2014.pdf>`_ を予定
-
-  詳しい内容の確認、および申込は `Doorkeeperのイベントページ <http://okagit.doorkeeper.jp/events/12947>`_ よりお願いします。
+現在、開催予定のイベントはありません。
 
 |
 
@@ -89,6 +71,9 @@ Twitterハッシュタグ
     * - 2013/09/14
       - :doc:`events/study201309`
       - `倉敷市立美術館 <http://www.city.kurashiki.okayama.jp/dd.aspx?menuid=11459>`_
+    * - 2014/08/30
+      - :doc:`events/study201408`
+      - `岡山県倉敷市老松町4-8-20 2F 会議室 <https://www.google.com/maps/place/34%C2%B035'37.0%22N+133%C2%B045'28.8%22E/@34.5936037,133.7579875,15z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0?hl=ja>`_
 
 |
 
