@@ -47,7 +47,7 @@ master_doc = u'index'
 # General information about the project.
 project = u'Okayama Git User Group'
 
-copyright = u'2012 - 2013, Okayama Git User Group'
+copyright = u'2012 - 2014, Okayama Git User Group'
 
 
 # The version info for the project you're documenting, acts as replacement for
