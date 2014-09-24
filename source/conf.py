@@ -13,6 +13,7 @@
 
 import sys, os
 import sphinx_bootstrap_theme
+import datetime
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -47,7 +48,7 @@ master_doc = u'index'
 # General information about the project.
 project = u'Okayama Git User Group'
 
-copyright = u'2012 - 2014, Okayama Git User Group'
+copyright = u'2012 - %d, Okayama Git User Group' % datetime.datetime.today().year
 
 
 # The version info for the project you're documenting, acts as replacement for
