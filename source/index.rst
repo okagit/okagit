@@ -115,17 +115,15 @@ HubInfo
 
 .. raw:: html
 
-   <link rel="stylesheet" href="static/hubinfo.min.css" />
+   <div id="hubInfo" style="max-width: 600px;"></div>
+   <link rel="stylesheet" href="static/hubinfo.css" />
    <script type="text/javascript" src="static/hubinfo.min.js"></script>
-   <script type="text/javascript">
-    $(function() {
+   <script>
       $("#hubInfo").hubInfo({
         user: "okagit",
         repo: "okagit"
       });
-    })
    </script>
-   <div id="hubInfo" style="max-width: 800px;"></div>
 
 |
 |
