@@ -47,7 +47,24 @@ Twitterハッシュタグ
 開催予定のイベント
 ==================
 
- 岡山Gitユーザ会は `合同勉強会 in 大都会岡山 -2014 Winter- <http://gbdaitokai.doorkeeper.jp/events/15289>`_ に参加します。
+**岡山Git勉強会 201508**
+
+ .. list-table::
+    :widths: 10, 50
+    :header-rows: 0
+
+    * - 開催日
+      - 2015-08-29(土) 14:00～17:30
+    * - 開催場所
+      - 岡山県倉敷市阿知 1-15-5 `株式会社アイネット <http://www.inet88.co.jp/>`_ 4F会議室
+        （ `地図 <https://www.google.com/maps/place/34°35'59.8"N+133°45'55.0"E/@34.5999426,133.7652896,18z>`_ ）
+    * - 定員
+      - 10名（予定）
+    * - 懇親会
+      - ビアガーデンを予定 `倉敷アイビースクエア <http://www.ivysquare.co.jp/beergarden/>`_
+        or `倉敷天満屋屋上ビアガーデン <http://www.tenmaya.co.jp/webchirashi/kurashiki/00394/index_00394.html#page=2>`_
+
+ 詳しい内容、およびお申込みは `Doorkeeperのイベントページ <https://okagit.doorkeeper.jp/events/29753>`_ よりお願いします。
 
 .. 現在、開催予定のイベントはありません。
 
